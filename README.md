@@ -19,10 +19,10 @@ MythWeaver — это приложение для создания и управ
 ## 🛠️ Установка локально
 
 Перед этим вам надо будет создать .env файл 
-YANDEX_CLIENT_ID=your_yandex_client_id
-YANDEX_CLIENT_SECRET=your_yandex_client_secret
-JWT_SECRET=your_jwt_secret
-DATABASE_URL=postgresql://user:password@localhost:5434/dbname
+- YANDEX_CLIENT_ID=your_yandex_client_id
+- YANDEX_CLIENT_SECRET=your_yandex_client_secret
+- JWT_SECRET=your_jwt_secret
+- DATABASE_URL=postgresql://user:password@localhost:5434/dbname
 
 1. **Клонировать репозиторий:**
 
